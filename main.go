@@ -1,4 +1,4 @@
-package pangolin
+package main
 
 import "github.com/ghouleztt/pangolin/cmd"
 
